@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="field_1">FIELD 1</string>
+    <string name="field_2">FIELD 2</string>
+    <string name="result">RESULT</string>
+    <string name="_1st_number">1ST NUMBER</string>
+    <string name="_2nd_number">2ND NUMBER</string>
+    <string name="add">MODE ADDITION</string>
+    <string name="subtract">MODE SUBTRACTION</string>
+    <string name="multiply">MODE MULTIPLICATION</string>
+    <string name="divide">MODE DIVISION</string>
+</resources>
